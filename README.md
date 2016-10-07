@@ -1,2 +1,2 @@
 # Hello-world
-hi, i'm sumaiya. I would like to develop one android application. 
+hi, i'm sumaiya. I would like to develop a android application. 
